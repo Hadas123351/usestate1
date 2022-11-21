@@ -1,10 +1,12 @@
 
 import './App.css';
+import Counter from './Counter';
 
 function App() {
   return (
     <div className="App">
-      Usestate2gyyhvjvj
+      Usestate
+      <Counter/>
     </div>
   );
 }
